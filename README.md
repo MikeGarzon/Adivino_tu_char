@@ -1,0 +1,1 @@
+Juego en donde adivino tu figura elegida, si lo quieres con emoticones, en la linea 21 del main, asigna 0 a la X (solo para windows), no he logrado arreglar que la consola de linux lea bien los caractes especiales del assci. [ERROR] para numeros pares, si tu char elegido es el primero de la primera columna esta bug.
